@@ -6,5 +6,4 @@ Given a masked image, the goal of the recursive PCA algorithm is to fill in the 
 - PCA face reconstruction on RGB channel
 - Face inpainting using recursive PCA
 
-![recursive pca face inpaintiing]
-(asset/recpca.png)
+![recursive pca face inpaintiing](asset/recpca.png)
