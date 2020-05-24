@@ -1,5 +1,7 @@
 # Recursive PCA Face Inpainting
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/abeytheo/tinkering-ml/blob/master/computer_vision/recursive_pca_face_inpainting/recursive_pca_face_inpainting.ipynb)
+
 Given a masked image, the goal of the recursive PCA algorithm is to fill in the missing region with appropriate pixels retrieved from the eigenface space. In this project, I present three main topics:
 
 - Basic face reconstruction using PCA
