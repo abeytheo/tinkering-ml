@@ -1,6 +1,6 @@
 # tinkering-ml
 
-My private repertoire of ML/DS related exploration
+My repertoire of ML/DS related exploration
 
 ## Project List
 
